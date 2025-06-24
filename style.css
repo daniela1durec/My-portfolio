@@ -1,10 +1,12 @@
 * {
-    background-color:rgb(233, 194, 219);
-    font-family: cursive;
-  }  
+    background-color:#D3ECCD;
+    font-family: "Edu QLD Hand", cursive;
+    text-align: center;
+}
+  
 h1 {
-    color: #8d0ec9;
+    color: #212121;
 }
 h2 { 
-    color: hsl(305, 88%, 30%);
+    color: #06923E;
 }
