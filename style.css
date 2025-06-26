@@ -4,11 +4,13 @@
 }
   
 h1 {
-    color:  #06923E;
+    color:  #06923E;    
 }
+
 h2 { 
     color:  #06923E;
 }
+
 .portfolio {
     margin: 20px;
     margin-left: 30%;
@@ -19,10 +21,15 @@ h2 {
     font-weight: bold;
     color: #E67514;
 }
+
 img {
     height: 200;
     border-radius: 20px;
     border: 2px solid whitesmoke;
+}
+
+.portfolio img {
+    border-radius: 50%;
 }
 
 .menu {
@@ -30,6 +37,10 @@ img {
     padding: 10px;
     margin: 10px;
     color: #E67514;
+}
+
+.menu a {
+    color: #212121;
 }
 
 .work {
@@ -40,5 +51,10 @@ img {
     font-weight: bold;
     color: #E67514;
 }
+
+.work a {
+    color: #E67514;
+}
+
 
 
