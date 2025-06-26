@@ -1,34 +1,44 @@
 * {
     font-family: "Edu QLD Hand", cursive;
     text-align: center;
-    background-color: #D3ECCD;
 }
   
 h1 {
-    color:  #E67514;
+    color:  #06923E;
 }
 h2 { 
-    color:  #E67514;
+    color:  #06923E;
 }
 .portfolio {
     margin: 20px;
     margin-left: 30%;
     margin-right: 30%;
     padding: 20px;
-    background-color: #06923E;
+    background-color: #D3ECCD;
     border-radius: 20px;
     font-weight: bold;
+    color: #E67514;
 }
 img {
     height: 200;
     border-radius: 20px;
-}
-p {
-    background-color: #06923E;
+    border: 2px solid whitesmoke;
 }
 
 .menu {
     font-weight: bold;
     padding: 10px;
     margin: 10px;
+    color: #E67514;
 }
+
+.work {
+    margin: 20px;
+    padding: 20px;
+    background-color: #D3ECCD;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #E67514;
+}
+
+
