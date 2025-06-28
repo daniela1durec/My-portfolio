@@ -13,16 +13,12 @@ h2 {
 
 .portfolio {
     margin: 20px;
-    margin-left: 30%;
-    margin-right: 30%;
     padding: 20px;
     background-color: #D3ECCD;
     border-radius: 20px;
     font-weight: bold;
     color: #E67514;
-    width: 400px;
     height: 400px;
-    position: relative;
 }
 
 img {
@@ -34,15 +30,7 @@ img {
 .portfolio img {
     border-radius: 50%;
     padding: 10px;
-    position: absolute;
-    top: 5%;
-    left: 5%;
-}
-
-.portfolio p {
-   position: absolute;
-   top: 70%;
-   left: 10%;
+    float: left;
 }
 
 .menu {
