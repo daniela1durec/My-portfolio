@@ -25,12 +25,17 @@ img {
     height: 200px;
     border-radius: 20px;
     border: 2px solid whitesmoke;
+    cursor: pointer;
 }
 
 .portfolio img {
     border-radius: 50%;
     padding: 10px;
     float: left;
+}
+
+.portfolio img:hover {
+        transform: scale(1.2);
 }
 
 .menu {
