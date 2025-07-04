@@ -4,11 +4,13 @@
 }
   
 h1 {
-    color:  #06923E;    
+    color:  #06923E;
+    font-size: 50px;    
 }
 
 h2 { 
     color:  #06923E;
+    font-size: 30px;
 }
 
 .portfolio {
@@ -17,6 +19,7 @@ h2 {
     background-color: #D3ECCD;
     border-radius: 20px;
     font-weight: bold;
+    font-size: 20px;
     color: #E67514;
     height: 250px;
 }
@@ -56,6 +59,7 @@ img {
     border-radius: 20px;
     font-weight: bold;
     color: #E67514;
+    font-size: 20px;
 }
 
 .work a {
