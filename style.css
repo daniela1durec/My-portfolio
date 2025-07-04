@@ -5,12 +5,12 @@
   
 h1 {
     color:  #06923E;
-    font-size: 50px;    
+    font-size: 70px;    
 }
 
 h2 { 
     color:  #06923E;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .portfolio {
@@ -19,7 +19,7 @@ h2 {
     background-color: #D3ECCD;
     border-radius: 20px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     color: #E67514;
     height: 250px;
 }
@@ -38,18 +38,7 @@ img {
 }
 
 .portfolio img:hover {
-        transform: scale(1.2);
-}
-
-.menu {
-    font-weight: bold;
-    padding: 10px;
-    margin: 10px;
-    color: #E67514;
-}
-
-.menu a {
-    color: #212121;
+    transform: scale(1.2);
 }
 
 .work {
@@ -59,7 +48,7 @@ img {
     border-radius: 20px;
     font-weight: bold;
     color: #E67514;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .work a {
