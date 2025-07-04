@@ -20,11 +20,11 @@ h2 {
     border-radius: 20px;
     height: 250px;
     display: flex;
+    font-size: 25px;
 }
 
 .portfolio p {
     margin-left: 20px;
-    font-size: 25px;
     font-weight: bold;
     color: #E67514;
 }
