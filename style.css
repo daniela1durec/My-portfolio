@@ -18,15 +18,15 @@ h2 {
     padding: 30px;
     background-color: #D3ECCD;
     border-radius: 20px;
-    font-weight: bold;
-    font-size: 25px;
-    color: #E67514;
     height: 250px;
     display: flex;
 }
 
 .portfolio p {
     margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #E67514;
 }
 
 img {
