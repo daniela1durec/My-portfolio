@@ -21,8 +21,15 @@ h2 {
     background-color: #D3ECCD;
     border-radius: 20px;
     height: 300px;
-    display: block;
+    display: flexbox;
     font-size: 20px;
+}
+
+
+@media screen and (max-width: 400px) {
+.portfolio {
+    margin: 0;
+  }
 }
 
 .portfolio p {
@@ -58,7 +65,13 @@ img {
     font-weight: bold;
     color: #E67514;
     font-size: 20px;
-    display: block;
+    display: flexbox;
+}
+
+@media screen and (max-width: 400px) {
+.work {
+    margin: 0;
+  }
 }
 
 .work a {
