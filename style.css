@@ -1,7 +1,7 @@
 * {
     font-family: "Edu QLD Hand", cursive;
     text-align: center;
-}
+   }
   
 h1 {
     color:  #06923E;
@@ -15,12 +15,15 @@ h2 {
 
 .portfolio {
     margin: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
     padding: 30px;
     background-color: #D3ECCD;
     border-radius: 20px;
-    height: 250px;
+    height: 300px;
     display: block;
     font-size: 20px;
+
 }
 
 .portfolio p {
@@ -39,7 +42,6 @@ img {
 .portfolio img {
     border-radius: 50%;
     padding: 20px;
-    float: left;
 }
 
 .portfolio img:hover {
@@ -48,6 +50,8 @@ img {
 
 .work {
     margin: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     padding: 20px;
     background-color: #D3ECCD;
