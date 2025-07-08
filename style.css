@@ -5,12 +5,12 @@
   
 h1 {
     color:  #06923E;
-    font-size: 70px;    
+    font-size: 50px;    
 }
 
 h2 { 
     color:  #06923E;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .portfolio {
@@ -20,7 +20,7 @@ h2 {
     border-radius: 20px;
     height: 250px;
     display: flex;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .portfolio p {
@@ -31,6 +31,7 @@ h2 {
 
 img {
     height: 200px;
+    width: 300px;
     border-radius: 20px;
     border: 2px solid whitesmoke;
     cursor: pointer;
@@ -54,7 +55,7 @@ img {
     border-radius: 20px;
     font-weight: bold;
     color: #E67514;
-    font-size: 30px;
+    font-size: 20px;
     display: flexbox;
 }
 
